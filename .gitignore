@@ -1,0 +1,17 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Local raw/source data
+data/raw/
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local SQL/Workbench exports
+*.log
+*.tmp
